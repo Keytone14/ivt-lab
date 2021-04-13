@@ -1,6 +1,10 @@
 package hu.bme.mit.spaceship;
 
+<<<<<<< HEAD
 //branch-A
+=======
+// branch-B
+>>>>>>> branch-B
 
 /**
 * A simple spaceship with two proton torpedo stores and four lasers
